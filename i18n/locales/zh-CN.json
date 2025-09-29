@@ -34,7 +34,7 @@
   },
   "layouts": {
     "footer": {
-      "copyright": "产品来自 HTML.ZONE",
+      "copyright": "产品来自 WIN4.COM",
       "social": {
         "email": "邮箱",
         "telegram": "Telegram",
@@ -56,39 +56,39 @@
   "home": {
     "features": {
       "title": "功能特点",
-      "subtitle": "简单而实用的功能",
+      "subtitle": "真正最好的印度游戏平台",
       "url_shortening": {
-        "title": "URL 缩短",
-        "description": "将您的 URL 压缩到最小长度"
+        "title": "安全世界级",
+        "description": "保证零欺诈；100%安全交易；数据保密和身份隐私"
       },
       "analytics": {
-        "title": "数据分析",
-        "description": "监控链接分析并收集有价值的统计数据"
+        "title": "最佳类别优惠和奖励",
+        "description": "每天通过推荐每位朋友赚取高达 ₹50,000"
       },
       "serverless": {
-        "title": "无服务器",
-        "description": "无需传统服务器即可部署"
+        "title": "最具创新性的游戏平台",
+        "description": "在APP中玩老虎机、Parchisi Star 和其他技巧游戏 [行业第一]"
       },
       "customizable_slug": {
-        "title": "自定义短链",
-        "description": "支持个性化短链和大小写敏感"
+        "title": "永不停止游戏",
+        "description": "玩超过 25 种游戏；真钱游戏、100% 奖励游戏、小工具联赛等等！"
       },
       "ai_slug": {
-        "title": "AI 短链",
-        "description": "利用 AI 生成短链"
+        "title": "提现无忧",
+        "description": "银行转账；UPI 转账"
       },
       "link_expiration": {
-        "title": "链接过期",
-        "description": "为您的链接设置过期日期"
+        "title": "10000000玩家的信赖",
+        "description": "印度本土的APP，专为印度人服务！"
       }
     },
     "cta": {
-      "title": "立即部署",
-      "description": "只需几个简单的点击，您就可以免费开始部署",
-      "button": "开始部署"
+      "title": " 在Win4上赚钱",
+      "description": "每次你的粉丝玩游戏，你都可以赚取数十万卢比",
+      "button": "开始游戏"
     },
     "logos": {
-      "title": "使用优秀的技术构建"
+      "title": "最佳游戏体验"
     },
     "twitter": {
       "follow": "在 X(Twitter) 上关注我"
