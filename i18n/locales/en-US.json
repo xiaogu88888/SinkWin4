@@ -56,39 +56,39 @@
   "home": {
     "features": {
       "title": "Features",
-      "subtitle": "Simple and sufficient functionality",
+      "subtitle": "Truly Best India Game Platform",
       "url_shortening": {
-        "title": "URL Shortening",
-        "description": "Compress your URLs to their minimal length"
+        "title": "World Class Security",
+        "description": "Zero Fraud Guarantee;100% safe and secure transactions;Complete data and identity privacy"
       },
       "analytics": {
-        "title": "Analytics",
-        "description": "Monitor link analytics and gather insightful statistics"
+        "title": "Best in Category Offers & Rewards",
+        "description": "Earn up to ₹50,000 per friend via Referrals every day"
       },
       "serverless": {
-        "title": "Serverless",
-        "description": "Deploy without the need for traditional servers"
+        "title": "Most Innovative Gaming Platform",
+        "description": "Play Slots, Parchisi Star and other skilled games in one APP [Industry 1st]"
       },
       "customizable_slug": {
-        "title": "Customizable Slug",
-        "description": "Support for personalized slugs and case sensitivity"
+        "title": "Never Stop Playing*",
+        "description": "Play more than 25+ Games;Real Cash Games, 100% Bonus Games, Gadget Leagues & Many More!"
       },
       "ai_slug": {
-        "title": "AI Slug",
-        "description": "Leverage AI to generate slugs"
+        "title": "Withdraw winnings directly to your",
+        "description": "Bank Transfer;UPI Transfer"
       },
       "link_expiration": {
-        "title": "Link Expiration",
-        "description": "Set expiration dates for your links"
+        "title": "Trusted by 1 Crore players",
+        "description": "Made with ❤\uFE0F in India, for India!"
       }
     },
     "cta": {
-      "title": "Deployment immediately",
-      "description": "With just a few simple clicks, you can start deploying without any expenses",
-      "button": "Start Deploy"
+      "title": "Earn more with Win4",
+      "description": "Earn Lakhs of rupees everytime your followers play a game",
+      "button": "Start Playing"
     },
     "logos": {
-      "title": "Built with awesome technologies"
+      "title": "Best Gaming Experience"
     },
     "twitter": {
       "follow": "Follow me on X(Twitter)"
