@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Join in Win4',
+  title: 'WIN4',
   email: 'sink.cool@miantiao.me',
   github: 'https://www.instagram.com/win4rummy/',
   twitter: 'https://www.instagram.com/win4rummy/',
