@@ -14,11 +14,11 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
       >{{ title }}</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://WIN4.COM"
+        href="https://333666.COM"
         target="_blank"
-        title="WIN4.COM"
+        title="333666.COM"
       >
-        &copy; {{ new Date().getFullYear() }} Products of WIN4.COM
+        &copy; {{ new Date().getFullYear() }} Products of 333666.COM
       </a>
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
